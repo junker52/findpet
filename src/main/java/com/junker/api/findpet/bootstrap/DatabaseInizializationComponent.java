@@ -63,9 +63,5 @@ public class DatabaseInizializationComponent implements CommandLineRunner {
 
         this.petRepository.save(perro);
 
-
-
-
-
     }
 }
